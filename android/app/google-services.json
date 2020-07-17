@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055278266988",
+    "firebase_url": "https://flashchat-81500.firebaseio.com",
+    "project_id": "flashchat-81500",
+    "storage_bucket": "flashchat-81500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055278266988:android:a43691f9e5028afe70b649",
+        "android_client_info": {
+          "package_name": "com.jme.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055278266988-snobdq4qk6fos06m5rjthrg040oc9noq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlSweZYuEsc6It8hZVU93dt4xqiLGQ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055278266988-snobdq4qk6fos06m5rjthrg040oc9noq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
